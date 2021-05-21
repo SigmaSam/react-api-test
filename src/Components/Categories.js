@@ -46,8 +46,7 @@ class Categories extends React.Component {
             for (let i = 0; i <9; i++) {
                 firstTen.push(catArray[i].list_name)
             }
-            console.log(firstTen);
-
+     
             return (
                 <div>
                     <div>
